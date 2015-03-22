@@ -1,5 +1,5 @@
 # thehigherdead
-Python port of Chuck Ryback's @TheHigherDead bot
+Python port of Chuck Rybak's @TheHigherDead bot
 
 You can run this program in Python as is:
     python thehigherdead.py
